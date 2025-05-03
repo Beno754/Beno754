@@ -6,10 +6,10 @@ My first entry into programming was in 2008 when I started learning game develop
 Pairing my love for programming with mechanical design, I have made various projects you can find in my Github.
 
 ## 👍 I have knowledge in:
-C#, C++, Java, HTML, Javascript
+C#, C++, Java, HTML, Javascript.
 Using Controllers such as Arduino and PLC to interface software with physical components
 
-### 🤔 My current fascination is Assembly and how it is stored in memory. For a project I am working on which needs to read process memory.
+### 🤔 My current fascination is Assembly Code and how it is stored in memory to use with a project which needs to read process memory.
 
 ## 🎮 Game design has taught me various concepts:
  - User Interaction
