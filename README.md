@@ -2,7 +2,7 @@
 
 Hi, I’m Ben Edwards, A Process Engineer looking to become a full time software developer.
 I have a love for constantly learning and developing my skills.
-My first entry into programming was in 2008 when I started learning game development as a hobby and constantly learning new things ever since.
+My first entry into programming was in 2008 when I started learning game development as a hobby.
 Pairing my love for programming with mechanical design, I have made various projects you can find in my Github.
 
 ## 👍 I have knowledge in:
