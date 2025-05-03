@@ -7,6 +7,7 @@ Pairing my love for programming with mechanical design, I have made various proj
 
 ## 👍 I have knowledge in:
 C#, C++, Java, HTML, Javascript
+Using Controllers such as Arduino and PLC to interface software with physical components
 
 ### 🤔 My current fascination is Assembly and how it is stored in memory. For a project I am working on which needs to read process memory.
 
