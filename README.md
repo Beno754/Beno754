@@ -9,7 +9,11 @@ Pairing my love for programming with mechanical design, I have made various proj
 C#, C++, Java, HTML, Javascript.
 Using Controllers such as Arduino and PLC to interface software with physical components
 
-### 🤔 My current fascination is Assembly Code and how it is stored in memory to use with a project which needs to read process memory.
+## Take a look at my biggest project I am working on:
+https://github.com/Beno754/Video-game-radar-IRL
+It involes making an Android App to send GPS locations to a server and then displaying them on LEDS as a compass showing relative locations
+
+## 🤔 My current fascination is Assembly Code and how it is stored in memory to use with a project which needs to read process memory.
 
 ## 🎮 Game design has taught me various concepts:
  - User Interaction
